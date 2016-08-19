@@ -1,6 +1,6 @@
 {
   "name": "afrostream-node-middleware-cachehandler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "afrostream node module express middleware cachehandler",
   "main": "index.js",
   "repository": {
